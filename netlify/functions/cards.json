@@ -1,34 +1,34 @@
 [
   {
-    "name": "The Fool",
+    "name": "Fool",
     "image": "/tarotdeck/fool.jpg"
   },
   {
-    "name": "The Magician",
+    "name": "Magician",
     "image": "/tarotdeck/magician.jpg"
   },
   {
-    "name": "The High Priestess",
+    "name": "High Priestess",
     "image": "/tarotdeck/highpriestess.jpg"
   },
   {
-    "name": "The Empress",
+    "name": "Empress",
     "image": "/tarotdeck/empress.jpg"
   },
   {
-    "name": "The Emperor",
+    "name": "Emperor",
     "image": "/tarotdeck/emperor.jpg"
   },
   {
-    "name": "The Hierophant",
+    "name": "Hierophant",
     "image": "/tarotdeck/hierophant.jpg"
   },
   {
-    "name": "The Lovers",
+    "name": "Lovers",
     "image": "/tarotdeck/TheLovers.jpg"
   },
   {
-    "name": "The Chariot",
+    "name": "Chariot",
     "image": "/tarotdeck/chariot.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "image": "/tarotdeck/strength.jpg"
   },
   {
-    "name": "The Hermit",
+    "name": "Hermit",
     "image": "/tarotdeck/hermit.jpg"
   },
   {
@@ -48,7 +48,7 @@
     "image": "/tarotdeck/justice.jpg"
   },
   {
-    "name": "The Hanged Man",
+    "name": "Hanged Man",
     "image": "/tarotdeck/hangedman.jpg"
   },
   {
@@ -60,23 +60,23 @@
     "image": "/tarotdeck/temperance.jpg"
   },
   {
-    "name": "The Devil",
+    "name": "Devil",
     "image": "/tarotdeck/devil.jpg"
   },
   {
-    "name": "The Tower",
+    "name": "Tower",
     "image": "/tarotdeck/tower.jpg"
   },
   {
-    "name": "The Star",
+    "name": "Star",
     "image": "/tarotdeck/star.jpg"
   },
   {
-    "name": "The Moon",
+    "name": "Moon",
     "image": "/tarotdeck/moon.jpg"
   },
   {
-    "name": "The Sun",
+    "name": "Sun",
     "image": "/tarotdeck/sun.jpg"
   },
   {
@@ -84,7 +84,7 @@
     "image": "/tarotdeck/judgement.jpg"
   },
   {
-    "name": "The World",
+    "name": "World",
     "image": "/tarotdeck/world.jpg"
   },
   {
