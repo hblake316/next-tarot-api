@@ -1,0 +1,314 @@
+[
+  {
+    "name": "The Fool",
+    "image": "/tarotdeck/thefool.jpg"
+  },
+  {
+    "name": "The Magician",
+    "image": "/tarotdeck/themagician.jpg"
+  },
+  {
+    "name": "The High Priestess",
+    "image": "/tarotdeck/thehighpriestess.jpg"
+  },
+  {
+    "name": "The Empress",
+    "image": "/tarotdeck/theempress.jpg"
+  },
+  {
+    "name": "The Emperor",
+    "image": "/tarotdeck/theemperor.jpg"
+  },
+  {
+    "name": "The Hierophant",
+    "image": "/tarotdeck/thehierophant.jpg"
+  },
+  {
+    "name": "The Lovers",
+    "image": "/tarotdeck/TheLovers.jpg"
+  },
+  {
+    "name": "The Chariot",
+    "image": "/tarotdeck/thechariot.jpg"
+  },
+  {
+    "name": "Strength",
+    "image": "/tarotdeck/thestrength.jpg"
+  },
+  {
+    "name": "The Hermit",
+    "image": "/tarotdeck/thehermit.jpg"
+  },
+  {
+    "name": "Wheel of Fortune",
+    "image": "/tarotdeck/wheeloffortune.jpg"
+  },
+  {
+    "name": "Justice",
+    "image": "/tarotdeck/justice.jpg"
+  },
+  {
+    "name": "The Hanged Man",
+    "image": "/tarotdeck/thehangedman.jpg"
+  },
+  {
+    "name": "Death",
+    "image": "/tarotdeck/death.jpg"
+  },
+  {
+    "name": "Temperance",
+    "image": "/tarotdeck/temperance.jpg"
+  },
+  {
+    "name": "The Devil",
+    "image": "/tarotdeck/thedevil.jpg"
+  },
+  {
+    "name": "The Tower",
+    "image": "/tarotdeck/thetower.jpg"
+  },
+  {
+    "name": "The Star",
+    "image": "/tarotdeck/thestar.jpg"
+  },
+  {
+    "name": "The Moon",
+    "image": "/tarotdeck/themoon.jpg"
+  },
+  {
+    "name": "The Sun",
+    "image": "/tarotdeck/thesun.jpg"
+  },
+  {
+    "name": "Judgement",
+    "image": "/tarotdeck/judgement.jpg"
+  },
+  {
+    "name": "The World",
+    "image": "/tarotdeck/theworld.jpg"
+  },
+  {
+    "name": "Ace of Cups",
+    "image": "/tarotdeck/aceofcups.jpg"
+  },
+  {
+    "name": "Two of Cups",
+    "image": "/tarotdeck/twoofcups.jpg"
+  },
+  {
+    "name": "Three of Cups",
+    "image": "/tarotdeck/threeofcups.jpg"
+  },
+  {
+    "name": "Four of Cups",
+    "image": "/tarotdeck/fourofcups.jpg"
+  },
+  {
+    "name": "Five of Cups",
+    "image": "/tarotdeck/fiveofcups.jpg"
+  },
+  {
+    "name": "Six of Cups",
+    "image": "/tarotdeck/sixofcups.jpg"
+  },
+  {
+    "name": "Seven of Cups",
+    "image": "/tarotdeck/sevenofcups.jpg"
+  },
+  {
+    "name": "Eight of Cups",
+    "image": "/tarotdeck/eightofcups.jpg"
+  },
+  {
+    "name": "Nine of Cups",
+    "image": "/tarotdeck/nineofcups.jpg"
+  },
+  {
+    "name": "Ten of Cups",
+    "image": "/tarotdeck/tenofcups.jpg"
+  },
+  {
+    "name": "Page of Cups",
+    "image": "/tarotdeck/pageofcups.jpg"
+  },
+  {
+    "name": "Knight of Cups",
+    "image": "/tarotdeck/knightofcups.jpg"
+  },
+  {
+    "name": "Queen of Cups",
+    "image": "/tarotdeck/queenofcups.jpg"
+  },
+  {
+    "name": "King of Cups",
+    "image": "/tarotdeck/kingofcups.jpg"
+  },
+  {
+    "name": "Ace of Pentacles",
+    "image": "/tarotdeck/aceofpentacles.jpg"
+  },
+  {
+    "name": "Two of Pentacles",
+    "image": "/tarotdeck/twoofpentacles.jpg"
+  },
+  {
+    "name": "Three of Pentacles",
+    "image": "/tarotdeck/threeofpentacles.jpg"
+  },
+  {
+    "name": "Four of Pentacles",
+    "image": "/tarotdeck/fourofpentacles.jpg"
+  },
+  {
+    "name": "Five of Pentacles",
+    "image": "/tarotdeck/fiveofpentacles.jpg"
+  },
+  {
+    "name": "Six of Pentacles",
+    "image": "/tarotdeck/sixofpentacles.jpg"
+  },
+  {
+    "name": "Seven of Pentacles",
+    "image": "/tarotdeck/sevenofpentacles.jpg"
+  },
+  {
+    "name": "Eight of Pentacles",
+    "image": "/tarotdeck/eightofpentacles.jpg"
+  },
+  {
+    "name": "Nine of Pentacles",
+    "image": "/tarotdeck/nineofpentacles.jpg"
+  },
+  {
+    "name": "Ten of Pentacles",
+    "image": "/tarotdeck/tenofpentacles.jpg"
+  },
+  {
+    "name": "Page of Pentacles",
+    "image": "/tarotdeck/pageofpentacles.jpg"
+  },
+  {
+    "name": "Knight of Pentacles",
+    "image": "/tarotdeck/knightofpentacles.jpg"
+  },
+  {
+    "name": "Queen of Pentacles",
+    "image": "/tarotdeck/queenofpentacles.jpg"
+  },
+  {
+    "name": "King of Pentacles",
+    "image": "/tarotdeck/kingofpentacles.jpg"
+  },
+  {
+    "name": "Ace of Swords",
+    "image": "/tarotdeck/aceofswords.jpg"
+  },
+  {
+    "name": "Two of Swords",
+    "image": "/tarotdeck/twoofswords.jpg"
+  },
+  {
+    "name": "Three of Swords",
+    "image": "/tarotdeck/threeofswords.jpg"
+  },
+  {
+    "name": "Four of Swords",
+    "image": "/tarotdeck/fourofswords.jpg"
+  },
+  {
+    "name": "Five of Swords",
+    "image": "/tarotdeck/fiveofswords.jpg"
+  },
+  {
+    "name": "Six of Swords",
+    "image": "/tarotdeck/sixofswords.jpg"
+  },
+  {
+    "name": "Seven of Swords",
+    "image": "/tarotdeck/sevenofswords.jpg"
+  },
+  {
+    "name": "Eight of Swords",
+    "image": "/tarotdeck/eightofswords.jpg"
+  },
+  {
+    "name": "Nine of Swords",
+    "image": "/tarotdeck/nineofswords.jpg"
+  },
+  {
+    "name": "Ten of Swords",
+    "image": "/tarotdeck/tenofswords.jpg"
+  },
+  {
+    "name": "Page of Swords",
+    "image": "/tarotdeck/pageofswords.jpg"
+  },
+  {
+    "name": "Knight of Swords",
+    "image": "/tarotdeck/knightofswords.jpg"
+  },
+  {
+    "name": "Queen of Swords",
+    "image": "/tarotdeck/queenofswords.jpg"
+  },
+  {
+    "name": "King of Swords",
+    "image": "/tarotdeck/kingofswords.jpg"
+  },
+  {
+    "name": "Ace of Wands",
+    "image": "/tarotdeck/aceofwands.jpg"
+  },
+  {
+    "name": "Two of Wands",
+    "image": "/tarotdeck/twoofwands.jpg"
+  },
+  {
+    "name": "Three of Wands",
+    "image": "/tarotdeck/threeofwands.jpg"
+  },
+  {
+    "name": "Four of Wands",
+    "image": "/tarotdeck/fourofwands.jpg"
+  },
+  {
+    "name": "Five of Wands",
+    "image": "/tarotdeck/fiveofwands.jpg"
+  },
+  {
+    "name": "Six of Wands",
+    "image": "/tarotdeck/sixofwands.jpg"
+  },
+  {
+    "name": "Seven of Wands",
+    "image": "/tarotdeck/sevenofwands.jpg"
+  },
+  {
+    "name": "Eight of Wands",
+    "image": "/tarotdeck/eightofwands.jpg"
+  },
+  {
+    "name": "Nine of Wands",
+    "image": "/tarotdeck/nineofwands.jpg"
+  },
+  {
+    "name": "Ten of Wands",
+    "image": "/tarotdeck/tenofwands.jpg"
+  },
+  {
+    "name": "Page of Wands",
+    "image": "/tarotdeck/pageofwands.jpg"
+  },
+  {
+    "name": "Knight of Wands",
+    "image": "/tarotdeck/knightofwands.jpg"
+  },
+  {
+    "name": "Queen of Wands",
+    "image": "/tarotdeck/queenofwands.jpg"
+  },
+  {
+    "name": "King of Wands",
+    "image": "/tarotdeck/kingofwands.jpg"
+  }
+]
