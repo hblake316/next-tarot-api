@@ -1,27 +1,27 @@
 [
   {
     "name": "The Fool",
-    "image": "/tarotdeck/thefool.jpg"
+    "image": "/tarotdeck/fool.jpg"
   },
   {
     "name": "The Magician",
-    "image": "/tarotdeck/themagician.jpg"
+    "image": "/tarotdeck/magician.jpg"
   },
   {
     "name": "The High Priestess",
-    "image": "/tarotdeck/thehighpriestess.jpg"
+    "image": "/tarotdeck/highpriestess.jpg"
   },
   {
     "name": "The Empress",
-    "image": "/tarotdeck/theempress.jpg"
+    "image": "/tarotdeck/empress.jpg"
   },
   {
     "name": "The Emperor",
-    "image": "/tarotdeck/theemperor.jpg"
+    "image": "/tarotdeck/emperor.jpg"
   },
   {
     "name": "The Hierophant",
-    "image": "/tarotdeck/thehierophant.jpg"
+    "image": "/tarotdeck/hierophant.jpg"
   },
   {
     "name": "The Lovers",
@@ -29,15 +29,15 @@
   },
   {
     "name": "The Chariot",
-    "image": "/tarotdeck/thechariot.jpg"
+    "image": "/tarotdeck/chariot.jpg"
   },
   {
     "name": "Strength",
-    "image": "/tarotdeck/thestrength.jpg"
+    "image": "/tarotdeck/strength.jpg"
   },
   {
     "name": "The Hermit",
-    "image": "/tarotdeck/thehermit.jpg"
+    "image": "/tarotdeck/hermit.jpg"
   },
   {
     "name": "Wheel of Fortune",
@@ -49,7 +49,7 @@
   },
   {
     "name": "The Hanged Man",
-    "image": "/tarotdeck/thehangedman.jpg"
+    "image": "/tarotdeck/hangedman.jpg"
   },
   {
     "name": "Death",
@@ -61,23 +61,23 @@
   },
   {
     "name": "The Devil",
-    "image": "/tarotdeck/thedevil.jpg"
+    "image": "/tarotdeck/devil.jpg"
   },
   {
     "name": "The Tower",
-    "image": "/tarotdeck/thetower.jpg"
+    "image": "/tarotdeck/tower.jpg"
   },
   {
     "name": "The Star",
-    "image": "/tarotdeck/thestar.jpg"
+    "image": "/tarotdeck/star.jpg"
   },
   {
     "name": "The Moon",
-    "image": "/tarotdeck/themoon.jpg"
+    "image": "/tarotdeck/moon.jpg"
   },
   {
     "name": "The Sun",
-    "image": "/tarotdeck/thesun.jpg"
+    "image": "/tarotdeck/sun.jpg"
   },
   {
     "name": "Judgement",
@@ -85,7 +85,7 @@
   },
   {
     "name": "The World",
-    "image": "/tarotdeck/theworld.jpg"
+    "image": "/tarotdeck/world.jpg"
   },
   {
     "name": "Ace of Cups",
